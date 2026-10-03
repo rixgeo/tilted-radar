@@ -46,7 +46,7 @@ By gathering feedback and fixing problems together, we can turn this concept int
 
 ### Requirements:
 * **GTA San Andreas v1.0 US** *(Strictly required)*
-* **[Modloader](https://www.mixmods.com.br/2015/01/modloader/)** (or Ultimate ASI Loader / Silent's ASI Loader)
+* **[Modloader](https://www.mixmods.com.br/2015/01/modloader/)** (requires Ultimate ASI Loader / Silent's ASI Loader / CLEO4 and above)
 
 ### Installation Steps:
 1. Download the latest `.zip` package from the [Releases](../../releases) tab.

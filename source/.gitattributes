@@ -1,0 +1,11 @@
+# Normalize line endings in the repository; checkout uses the platform default.
+* text=auto
+
+# Windows-only files that should keep CRLF
+*.sln text eol=crlf
+*.vcxproj text eol=crlf
+
+# Binary files
+*.png binary
+*.txd binary
+*.fxo binary
